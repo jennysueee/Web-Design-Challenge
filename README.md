@@ -15,5 +15,5 @@ This respository includes the following:
 * 4 image files
 * The actual data.csv file
 * The python code to convert the csv file to html
-* The output from that convert: data.html
+* The output from that conversion: data.html
 
